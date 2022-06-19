@@ -10,4 +10,16 @@ I built this project utilizing multiple javascript pages, sql, schema and gitign
 
 #Credits
 
-N/A
+Deployed using Insomnia
+
+![Screenshot 2022-06 E-Commerce Back-end #1](https://user-images.githubusercontent.com/101435334/174465957-08acae8c-361c-4034-b3d3-931d6084d2cf.jpg)
+
+![Screenshot 2022-06-18 E-Commerce Back-end #2](https://user-images.githubusercontent.com/101435334/174465975-a8a2eac6-a8a5-462f-8350-2e19a52ea444.jpg)
+
+![Screenshot 2022-06-18 E-Commerce Back-end #3](https://user-images.githubusercontent.com/101435334/174465992-cdd6284c-9182-4550-b6c6-0fd871002ab2.jpg)
+
+https://drive.google.com/file/d/1ibVZTO1gzQ5nxkEP0_yuOUTwhHHApQXJ/view
+
+https://drive.google.com/file/d/1EC55z8Tx-XVx0dyLXFIh0rDLOPSwedx5/view
+
+https://drive.google.com/file/d/1_bDk775Ojs3rez-Ziy6QX3bYvv37HaRV/view
